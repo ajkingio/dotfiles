@@ -1,0 +1,1 @@
+/home/ajones/dotfiles/nvim/autoload/plug.vim /home/ajones/.config/nvim/autoload/plug.vim
